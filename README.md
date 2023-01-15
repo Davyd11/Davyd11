@@ -1,9 +1,6 @@
 ### Hi there, I'm David 👋
 
-I'm a software engineer and cybersecurity researcher and enthusiast.
-- Living in Madrid.
-- If you want to reach me, you can contact me through issues.
-
+I'm a software developer, cybersecurity researcher and enthusiast.
 
 ![](https://komarev.com/ghpvc/?username=davyd11&color=blueviolet)
 <!--[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dpuente-)](https://github.com/JaeSeoKim/badge42)-->
